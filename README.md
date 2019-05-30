@@ -17,3 +17,11 @@ A collection of my favorite internet memes
 ### verynice
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/verynice.jpg" width="200" />
+
+### escalated
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/escalated.jpg" width="200" />
+
+### twospaces
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/twospaces.jpg" width="200" />
