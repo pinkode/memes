@@ -3,10 +3,10 @@
 A collection of my favorite internet memes
 
 ### dogscience
-![dogscience](https://raw.githubusercontent.com/pinkode/memes/master/resources/dogscience.jpg)
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/dogscience.jpg" width="200" />
 ### chuckapprove 
-![shipit](https://raw.githubusercontent.com/pinkode/memes/master/resources/chuckapprove.jpg)
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/chuckapprove.jpg" width="200" />
 ### niet
-![niet](https://raw.githubusercontent.com/pinkode/memes/master/resources/niet.jpg)
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/niet.jpg" width="200" />
 ### verynice
-![verynice](https://raw.githubusercontent.com/pinkode/memes/master/resources/verynice.jpg)
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/verynice.jpg" width="200" />
