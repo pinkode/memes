@@ -45,3 +45,11 @@ A collection of my favorite internet memes
 ### trumpwhatever
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/trumpwhatever.gif" width="200" />
+
+### putinlove
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/putinlove.gif" width="200" />
+
+### putinnotfunny
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/putinnotfunny.gif" width="200" />
