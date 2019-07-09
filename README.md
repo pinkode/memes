@@ -34,7 +34,7 @@ A collection of my favorite internet memes
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/trumpwrong1.gif" width="200" />
 
-### trumpwrong1
+### trumpwrong2
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/trumpwrong2.gif" width="200" />
 
