@@ -29,3 +29,11 @@ A collection of my favorite internet memes
 ### notests
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/notests.jpg" width="200" />
+
+### trumpwrong
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/trumpwrong.gif" width="200" />
+
+### trumpdance1
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/trumpdance1.gif" width="200" />
