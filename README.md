@@ -53,3 +53,7 @@ A collection of my favorite internet memes
 ### putinnotfunny
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/putinnotfunny.gif" width="200" />
+
+### putinbravo
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/putinbravo.gif" width="200" />
