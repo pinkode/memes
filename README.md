@@ -37,3 +37,7 @@ A collection of my favorite internet memes
 ### trumpdance1
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/trumpdance1.gif" width="200" />
+
+### trumpwhatever
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/trumpwhatever.gif" width="200" />
