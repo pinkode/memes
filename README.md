@@ -57,3 +57,11 @@ A collection of my favorite internet memes
 ### putinbravo
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/putinbravo.gif" width="200" />
+
+### huh1
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/huh1.gif" width="200" />
+
+### youregood
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/youregood.gif" width="200" />
