@@ -73,3 +73,7 @@ A collection of my favorite internet memes
 ### magic2
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/magic2.gif" width="200" />
+
+### godno
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/godno.gif" width="200" />
