@@ -65,3 +65,11 @@ A collection of my favorite internet memes
 ### youregood
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/youregood.gif" width="200" />
+
+### magic1
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/magic1.gif" width="200" />
+
+### magic2
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/magic2.gif" width="200" />
