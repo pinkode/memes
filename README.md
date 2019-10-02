@@ -77,3 +77,7 @@ A collection of my favorite internet memes
 ### godno
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/godno.gif" width="200" />
+
+### fainting1
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/fainting1.gif" width="200" />
