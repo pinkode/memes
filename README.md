@@ -81,3 +81,11 @@ A collection of my favorite internet memes
 ### fainting1
 
 <img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/fainting1.gif" width="200" />
+
+### donehere
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/donehere.gif" width="200" />
+
+### shocked1
+
+<img src="https://raw.githubusercontent.com/pinkode/memes/master/resources/shocked1.gif" width="200" />
